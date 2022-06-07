@@ -1,4 +1,4 @@
-﻿namespace Class_Object
+﻿namespace tes
 {
     partial class Form1
     {
